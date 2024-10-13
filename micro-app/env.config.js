@@ -31,7 +31,7 @@ const devServer = {
     },
     // https: true,
     port: "4000",
-    // host: "0.0.0.0",
+    // host-app: "0.0.0.0",
     // disableHostCheck: true
 };
 
